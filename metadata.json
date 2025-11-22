@@ -1,0 +1,7 @@
+{
+  "name": "AnglerAI: Smart Fishing Guide",
+  "description": "An intelligent fishing companion that analyzes your location, weather, and water conditions to recommend the optimal fishing rig, bait, and nearby spots using Google Gemini with Search and Maps integration.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
